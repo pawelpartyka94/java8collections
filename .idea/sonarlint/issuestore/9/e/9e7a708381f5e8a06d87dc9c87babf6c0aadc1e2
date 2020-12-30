@@ -1,0 +1,59 @@
+
+œ
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆİĞıÿÿÿÿ
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»„ªÿÿÿÿÿ
+c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï˜ûğ
+h	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş½äæùÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ãîô
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î†ˆØ
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¼ñı
+c	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª™ª
+h	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ûöËûÿÿÿÿ
+h	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š®ú“ùÿÿÿÿ
+h	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‚ûÁùÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëªûùÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÜÃ¶
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ã¤¡
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ª‰
+c	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·“ 
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÿ¢üÿÿÿÿ
+d	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‹˜
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ıîûÿÿÿÿ
+H
+java:S1481:"2Remove this unused "howManyDishes" local variable.(‹“³æ
+H
+java:S1481<"3Remove this unused "howManyDishes2" local variable.(é†Œ
+M
+java:S1481K"2Remove this unused "totalCalories" local variable.(Ó ¥ëşÿÿÿÿ
+I
+java:S1481M"3Remove this unused "totalCalories2" local variable.(Í“ƒÂ
+B
+java:S1481R",Remove this unused "collect" local variable.(ƒ•£ˆ
+B
+java:S1481]",Remove this unused "collect" local variable.(‘×¬
+B
+java:S1481b",Remove this unused "collect" local variable.(åƒÜ
+F
+java:S1481d"+Remove this unused "reduce" local variable.(İÕş¥üÿÿÿÿ
+B
+java:S1481f",Remove this unused "reduce2" local variable.(ÍÏŠ
+G
+java:S1481l",Remove this unused "collect" local variable.(Û±ËÖøÿÿÿÿ
+G
+java:S1481}",Remove this unused "collect" local variable.(µëÉÿÿÿÿÿ
+H
+java:S1481‚",Remove this unused "collect" local variable.(â²ùşÿÿÿÿ
+C
+java:S1481‡",Remove this unused "collect" local variable.(Æìå™
+H
+java:S1481",Remove this unused "collect" local variable.(Ñ•ªèÿÿÿÿÿ
+C
+java:S1481˜",Remove this unused "collect" local variable.(ªæÁ¤
+B
+java:S1481",Remove this unused "collect" local variable.(»ÒÇ
+C
+java:S1481¤",Remove this unused "collect" local variable.(ù÷œô
+H
+java:S1481«",Remove this unused "collect" local variable.(öº‘úÿÿÿÿ
+C
+java:S1481°",Remove this unused "collect" local variable.(ÇËÎ
